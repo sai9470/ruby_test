@@ -2,7 +2,7 @@
 
 ## Overview
 
-Log parser is a simple to parse a log file and prnts following list
+Log parser is a simple to parse a log file and prints following list
 
 list 1:
 
