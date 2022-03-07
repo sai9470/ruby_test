@@ -30,7 +30,14 @@ Setup:
 
 bundle install -> to install gem files in local
 
-Running Test Cases
+## TO Run App
+Go to the lib/ folder
+
+ruby parser #{file_name}
+
+
+
+## Running Test Cases
 
 respec spec/
 
