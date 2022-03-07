@@ -1,12 +1,5 @@
 # Log parser
 
-## Table of Contents
-
-1. [Overview](#overview)
-1. [Local Development](#local-development)
-1. [Deployment](#deployment)
-1. [Read More](#read-more)
-
 ## Overview
 
 Log parser is a simple to parse a log file and prnts following list
