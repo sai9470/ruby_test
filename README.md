@@ -39,7 +39,7 @@ ruby parser #{file_name}
 
 ## Running Test Cases
 
-respec spec/
+rspec spec/
 
 To run a specific test case
 respec file_path
